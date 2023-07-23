@@ -1,4 +1,4 @@
-# House Prices: Advanced Regression Techniques
+# 🏠 House Prices: Gradient Boosted Trees 🚀
 
 This repository contains my submission to the Kaggle House Prices competition.
 
